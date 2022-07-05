@@ -1,0 +1,25 @@
+:root {
+  --BTNCP: #032c5a;
+  --BTNCS: #3f3d56;
+}
+
+.A__Login .background-custom {
+  background: var(--BGC);
+  background: var(--BGI);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 0;
+}
+.A__Login .background-custom h1 {
+  font-weight: 700;
+  color: var(--BTNCP);
+}
+.A__Login .background-custom p {
+  font-weight: 1000;
+  color: var(--BTNCS);
+}
+
+.A__Login .background-custom img {
+  width: 900px;
+  height: 900px;
+}
